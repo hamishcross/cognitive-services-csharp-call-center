@@ -5,10 +5,11 @@ author: v-stadam
 ---
 # Call Center First Contact
 
-This sample is a basic mock-up for a call center app that takes a customer's spoken request, converts it to text, translates it to English (if necessary), gauges the emotion behind the text, and then parses it for key phrases. This data could be used to assist in routing the call to a:
+This sample is a basic mock-up for a call center app that takes a customer's utterance, converts it to text, translates it to English (if necessary), gauges the emotion behind the text, and then parses it for key phrases. This data can be used to assist in routing the call to a:
 
 * Speaker of the customer's preferred language
 * Senior Customer Service Representative to work with an especially upset caller
+* A Customer Service Representative with a high resolution rate for the callers intent
 * Subject matter expert for the subject of the call
 
 ## Features
